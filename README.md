@@ -1,10 +1,10 @@
 # SOL ASSISTENZA
 
 ## Project Description
-Il sistema consente di realizare un servizio di richiesta di assistenza on line rivolto ai cittadini piemontesi per inoltrare richieste di assistenza relative ai servizi on line della Salute pubblicati sul portale Salute Piemonte.
+Il sistema consente di realizzare un servizio di richiesta di assistenza on line rivolto ai cittadini piemontesi per inoltrare richieste di assistenza relative ai servizi on line della Salute pubblicati sul portale Salute Piemonte.
 
 ## Getting Started
-Il sistem **SOL ASSISTENZA** è realizzato tramite l'integrazione dei seguenti componenti:
+Il sistema **SOL ASSISTENZA** è realizzato tramite l'integrazione dei seguenti componenti:
 
 - [SANSOL]https://github.com/regione-piemonte/sansol
 - [APISAN - componente APISANASSISTENZA](https://github.com/regione-piemonte/apisan/tree/master/apisanassistenza)
