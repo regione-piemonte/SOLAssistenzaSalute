@@ -6,7 +6,7 @@ Il sistema consente di realizzare un servizio di richiesta di assistenza on line
 ## Getting Started
 Il sistema **SOL ASSISTENZA** è realizzato tramite l'integrazione dei seguenti componenti:
 
-- [SANSOL]https://github.com/regione-piemonte/sansol
+- [SANSOL](https://github.com/regione-piemonte/sansol)
 - [APISAN - componente APISANASSISTENZA](https://github.com/regione-piemonte/apisan/tree/master/apisanassistenza)
 - [TAYLOR](https://github.com/csipiemonte/Taylor)
 - [BOTSAN](https://github.com/regione-piemonte/botsan)
